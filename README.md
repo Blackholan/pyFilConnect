@@ -15,6 +15,7 @@ More details on the method and applications can be found in the paper:
 
 [Distinguish dark matter theories with the cosmic web and next-generation surveys I: an alternative theory of gravity](https://arxiv.org/abs/2402.04837) [code paper]
 
+The simulation data concerning the connectivity used in our study of Poisson and Monge-Ampère models are available [here](https://arxiv.org/abs/2402.04837)
 
 ### Usage
 
