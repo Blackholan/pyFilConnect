@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="ghI.jpg">
+  <img src="visu.001.jpeg">
 </p>
 
 [pyFilConnect](https://github.com/Blackholan/pyMWGCprogen) is a Python package which 
