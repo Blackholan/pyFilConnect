@@ -28,7 +28,7 @@ This repository contains:
 ## Authors
 
 pyFilConnect is distributed under the MIT license. See [MIT License](https://en.wikipedia.org/wiki/MIT_License) for more details. 
-If you use pyFilConnect in a publication, please cite the code paper [Boldrini & Laigle +24](https://arxiv.org/abs/2402.04837)
+If you use pyFilConnect in a publication, please cite the code paper [Boldrini & Laigle +24](https://arxiv.org/abs/2402.04837).
 
 * [Pierre Boldrini](mailto:boldrini@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP), France
 * [Clotilde Laigle](mailto:laigle@iap.fr) -- Sorbonne University, Institut d'Astrophysique de Paris (IAP), France
