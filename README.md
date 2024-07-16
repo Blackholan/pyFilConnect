@@ -9,7 +9,7 @@
   <img src="visu.001.jpeg">
 </p>
 
-[pyFilConnect](https://github.com/Blackholan/pyMWGCprogen) is a Python package which 
+[pyFilConnect](https://github.com/Blackholan/pyMWGCprogen) is a Python package which computes the filament connectivity and then the connectivty slope and offset from the halo catalogue and its associated cosmic skeleton extracted with the DisPerSE filament finder. 
 
 More details on the method and applications can be found in the paper:
 
