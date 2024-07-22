@@ -21,9 +21,9 @@ The simulation data concerning the connectivity used in our study of Poisson and
 
 This repository contains: 
 
-* dwarforb.py, a python script that allows generating dwarf Monte Carlo samples
-* pyMWGCprogen.ipynb, a jupyter notebook that allows running the code
-* dataBattaglia21.txt, the Milky Way dwarf galaxies catalog
+* read_dtfe_dev_v2.py, a python script that allows reading and writing DisPerSe files
+* pyFilConnect.ipynb, a jupyter notebook that allows computing filament connectivity and its associated slope and offset. 
+* HaloMSM, a directory that contains halo catalogue from a &LambdaCDM cosmological simulation
 * dataVasiliev21.txt, the Milky-Way globular clusters catalog
 
 ## Authors
