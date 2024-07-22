@@ -23,7 +23,7 @@ This repository contains:
 
 * read_dtfe_dev_v2.py, a python script that allows reading and writing DisPerSe files
 * pyFilConnect.ipynb, a jupyter notebook that allows computing filament connectivity and its associated slope and offset. 
-* HaloMSM, a directory that contains halo catalogue from a &LambdaCDM cosmological simulation
+* HaloMSM, a directory that contains halo catalogue from a &Lambda;CDM cosmological simulation
 * dataVasiliev21.txt, the Milky-Way globular clusters catalog
 
 ## Authors
