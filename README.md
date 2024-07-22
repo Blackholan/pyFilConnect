@@ -23,12 +23,12 @@ This repository contains:
 
 * read_dtfe_dev_v2.py, a python script that allows reading and writing DisPerSE files
 * pyFilConnect.ipynb, a jupyter notebook that allows computing filament connectivity and its associated slope and offset. 
-* HaloMSM, a directory that contains halo catalogue at z=1 from a &Lambda;CDM DM-only cosmological simulation, as an example of data
+* /HaloMSM, a directory that contains halo catalogue at z=1 from a &Lambda;CDM DM-only cosmological simulation, as an example of data
 * HaloGD512Z1.txt, DisPerSE initial condition file
-* DisPerSEoutput, a directory that contains in/outputs of DisPerSE code
-* CP, a directory that contains all the critical points for this z=1 snapshot
-* Filament, a directory that contains the filament end positions for this z=1 snapshot
-* Connectivity, a directory that contains the connectivity measurements of all simulated halos for this z=1 snapshot
+* /DisPerSEoutput, a directory that contains in/outputs of DisPerSE code
+* /CP, a directory that contains all the critical points for this z=1 snapshot
+* /Filament, a directory that contains the filament end positions for this z=1 snapshot
+* /Connectivity, a directory that contains the connectivity measurements of all simulated halos for this z=1 snapshot
 
 ## Authors
 
