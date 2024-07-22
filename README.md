@@ -26,9 +26,9 @@ This repository contains:
 * /HaloMSM, a directory that contains halo catalogue at z=1 from a &Lambda;CDM (Poisson) DM-only cosmological simulation, as an example of data
 * HaloGD512Z1.txt, DisPerSE initial condition file
 * /DisPerSEoutput, a directory that contains in/outputs of DisPerSE code
-* /CP directory will contain all the critical points for this z=1 snapshot
-* /Filament directory will contain the filament end positions for this z=1 snapshot
-* /Connectivity directory will contains the connectivity measurements of all simulated halos for this z=1 snapshot
+* /CP directory will contain all critical points for this z=1 snapshot
+* /Filament directory will contain filament end positions for this z=1 snapshot
+* /Connectivity directory will contain connectivity measurements of all simulated halos for this z=1 snapshot
 
 ## Authors
 
