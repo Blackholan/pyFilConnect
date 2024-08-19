@@ -9,7 +9,7 @@
   <img src="visu.001.jpeg">
 </p>
 
-[pyFilConnect](https://github.com/Blackholan/pyMWGCprogen) is a Python package which computes the filament connectivity at a given halo mass and then the connectivty slope and offset from halo catalogues and their associated cosmic skeletons extracted with the DisPerSE filament finder (papier disperse). We assess the robustness of the derived skeleton by DisPerSE by employing the rigorous method of calibration of [Galárraga-Espinosa et al. (2020)](https://arxiv.org/abs/2003.09697). Computing the connectivity and its slope and offset from DisPerSE outputs is very fast (order of 0.03 CPU hrs).
+[pyFilConnect](https://github.com/Blackholan/pyMWGCprogen) is a Python package which computes the filament connectivity at a given halo mass and then the connectivty slope and offset from halo catalogues and their associated cosmic skeletons extracted with the [DisPerSE](https://www2.iap.fr/users/sousbie/web/html/indexd41d.html) filament finder. We assess the robustness of the derived skeleton by DisPerSE by employing the rigorous method of calibration of [Galárraga-Espinosa et al. (2020)](https://arxiv.org/abs/2003.09697). Computing the connectivity and its slope and offset from DisPerSE outputs is very fast (order of 0.03 CPU hrs).
 
 More details on the method and applications can be found in the paper:
 
